@@ -6,19 +6,21 @@ A simple yet visually appealing login page created using HTML and CSS. This proj
 
 ## Project Structure
 
-- `index.html`: The main HTML file containing the structure of the login page.
-- `style.css`: The CSS file containing styles for layout, responsiveness, and animations.
-- `bg.jpg`: The background image for the login page.
+- [`index.html`](index.html): The main HTML file containing the structure of the login page.
+- [`style.css`](style.css): The CSS file containing styles for layout, responsiveness, and animations.
+- [`bg.jpg`](bg.jpg): The background image for the login page.
 
 ## How to View the Website
 
-You can view this login page by simply opening the `index.html` file in any web browser. Make sure to link the `style.css` file and the background image `bg.jpg` correctly in the same directory.
+You can view this login page by simply opening the [`index.html`](index.html) file in any web browser. Make sure to link the [`style.css`](style.css) file and the background image [`bg.jpg`](bg.jpg) correctly in the same directory.
 
 ## Technologies Used
 
 - **HTML**: For creating the structure of the login page.
 - **CSS**: For styling the login form and making the layout responsive.
 - **FontAwesome**: For the icons used in the form fields (user and password).
+- **Visual Studio Code**: For compiling the code.
+- **Browser**: For viewing the web result.
   
 ## Features
 
