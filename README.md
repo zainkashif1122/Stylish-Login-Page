@@ -2,7 +2,7 @@
 
 A simple yet visually appealing login page created using HTML and CSS. This project demonstrates how to design a user-friendly and responsive login interface with a background image.
 
-![Login Page Preview](path/to/screenshot.png)
+![Login Page Preview](screenShot.png)
 
 ## Project Structure
 
